@@ -1,0 +1,11 @@
+id;name;driving_license
+1;Mario Rossi;["A"]
+2;Luca Bianchi;["B"]
+3;Andrea Ferrari;["B"]
+4;Giulia Moretti;["A"]
+5;Matteo Esposito;[]
+6;Sofia Romano;["A","B"]
+7;Francesco Ricci;["B"]
+8;Chiara Lombardi;[]
+9;Alessandro Conti;["A","B"]
+10;Valentina Greco;["B"]

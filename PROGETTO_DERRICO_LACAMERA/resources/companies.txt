@@ -1,0 +1,151 @@
+id,nome,coord_x,coord_y
+1,Max Torino Lab,9.438702,37.979102
+2,Nova Torino Food,13.58591,36.836896
+3,Elite Napoli Srl,12.564263,36.781281
+4,Tech Bologna Food,9.145287,42.746216
+5,Tech Milano SpA,10.583006,38.148083
+6,Nova Verona Express,11.059128,40.305181
+7,Max Padova Venezia,16.185539,44.235157
+8,Tech Reggio Calabria Express,7.445602,39.60769
+9,Milano Cagliari Prime,8.807463,37.237285
+10,Nova Firenze Services,16.763813,45.684727
+11,Italia Venezia Solutions,14.128213,40.367221
+12,Elite Padova Prime,14.542102,43.939295
+13,Prime Napoli Venezia,12.909679,39.094996
+14,Max Messina Nova,18.37428,43.283997
+15,Green Reggio Calabria Tech,16.614223,44.725599
+16,Green Firenze Group,11.313977,37.201599
+17,Elite Livorno Elite,14.365264,40.693698
+18,Max Messina Market,8.175564,44.396883
+19,Milano Reggio Calabria Solutions,11.641206,42.685449
+20,Prime Padova Tech,12.614316,37.46364
+21,Prime Roma Express,14.029353,44.896041
+22,Nova Trieste Venezia,11.117208,42.816417
+23,Max Messina Auto,18.152941,45.624265
+24,Roma Milano Express,15.510534,44.647147
+25,Max Verona Express,11.717183,41.309471
+26,Prime Bari Auto,12.59218,37.627955
+27,Milano Catania Auto,8.886933,40.463487
+28,Roma Genova Food,17.521922,42.848813
+29,Nova Parma Lab,17.649183,45.814452
+30,Euro Catania Tech,9.390459,42.513984
+31,Italia Napoli Store,16.292279,46.866636
+32,Prime Reggio Calabria Market,14.41701,46.536596
+33,Roma Genova Solutions,16.969196,40.985262
+34,Elite Bologna Food,15.055388,40.729318
+35,Roma Padova Max,11.917834,39.1278
+36,Euro Napoli Elite,13.559705,38.939216
+37,Nova Firenze Lab,14.994091,37.124062
+38,Green Napoli Group,7.350288,39.022849
+39,Roma Parma Srl,8.087742,46.416451
+40,Italia Livorno Italia,9.415967,41.513513
+41,Nova Trieste Srl,7.66317,41.069143
+42,Italia Trieste Euro,16.866041,37.074215
+43,Tech Torino Group,15.238563,44.986281
+44,Elite Torino Tech,8.782507,41.255304
+45,Max Trieste SpA,12.051537,45.769551
+46,Roma Napoli Max,7.674905,43.412736
+47,Nova Reggio Calabria Lab,17.616404,45.496175
+48,Italia Genova Euro,12.276301,45.665294
+49,Tech Roma SpA,6.525865,40.638471
+50,Tech Messina Services,14.859098,44.243356
+51,Prime Reggio Calabria Green,8.778774,38.80763
+52,Roma Roma Italia,7.231491,39.824211
+53,Italia Roma Italia,12.534205,45.538831
+54,Roma Genova Group,7.461338,38.469745
+55,Elite Cagliari Store,11.345307,46.480919
+56,Milano Livorno Tech,13.63423,43.065444
+57,Milano Trieste Italia,12.773393,46.407886
+58,Elite Bologna Elite,9.687374,37.88731
+59,Green Catania Max,17.64822,46.418783
+60,Milano Milano Max,18.481453,47.058622
+61,Elite Napoli Food,12.570616,37.90404
+62,Elite Padova Store,10.934325,38.172116
+63,Milano Reggio Calabria Services,18.30624,45.055259
+64,Roma Modena Lab,10.092545,43.53192
+65,Nova Palermo Solutions,17.176552,44.369617
+66,Max Palermo Solutions,13.757958,44.106689
+67,Roma Bologna Solutions,12.362382,46.096567
+68,Tech Roma Store,16.452177,36.96732
+69,Max Verona Market,8.438984,41.183456
+70,Euro Trieste Food,7.842487,46.51754
+71,Euro Palermo Food,16.51514,42.674601
+72,Prime Palermo Euro,7.001946,40.365306
+73,Elite Roma Prime,14.6848,43.569494
+74,Tech Padova Food,18.186044,44.444463
+75,Prime Firenze SpA,17.076994,36.762735
+76,Elite Verona Euro,9.701669,44.84617
+77,Euro Torino Nova,16.803119,38.857797
+78,Max Messina Prime,16.346437,45.736024
+79,Elite Firenze Lab,11.281592,39.453192
+80,Green Napoli Solutions,14.197781,40.736591
+81,Euro Reggio Calabria Elite,7.884101,46.786246
+82,Max Genova Italia,6.959086,42.823655
+83,Tech Padova Elite,13.774506,41.921084
+84,Elite Venezia Italia,9.55667,44.013124
+85,Roma Milano Auto,14.742286,46.466789
+86,Tech Bologna Prime,7.339686,43.540919
+87,Green Verona Venezia,14.46065,37.821028
+88,Max Catania Auto,14.502715,39.957539
+89,Prime Catania Food,8.802081,43.548252
+90,Milano Venezia SpA,13.329263,40.804397
+91,Max Milano Services,9.022192,44.829044
+92,Italia Cagliari Elite,11.801432,43.661649
+93,Prime Modena Green,14.406209,39.508136
+94,Nova Cagliari Elite,16.321082,44.462064
+95,Elite Catania Tech,8.268248,36.989865
+96,Nova Parma Venezia,11.964994,45.893051
+97,Tech Livorno Srl,12.432526,39.086235
+98,Tech Milano Express,9.126094,45.023564
+99,Euro Modena Max,13.18887,46.225182
+100,Prime Torino Max,16.116999,43.576324
+101,Green Reggio Calabria Venezia,17.900475,45.949115
+102,Tech Cagliari Auto,16.46683,42.307443
+103,Italia Genova Green,9.610299,39.120741
+104,Italia Bari Auto,14.020981,39.410733
+105,Elite Napoli Services,9.760581,39.888921
+106,Prime Reggio Calabria Store,8.309968,40.560174
+107,Nova Palermo Srl,11.478415,40.007343
+108,Euro Messina Euro,8.982013,40.953521
+109,Milano Livorno Lab,11.064572,36.562498
+110,Tech Padova Services,16.741375,46.606362
+111,Roma Trieste Food,16.098418,46.0168
+112,Max Parma Tech,11.730032,36.807663
+113,Prime Verona Nova,16.586068,46.247141
+114,Euro Cagliari Food,17.383146,42.774063
+115,Tech Milano Store,8.128394,41.394004
+116,Tech Roma Solutions,10.428232,41.319813
+117,Max Verona Nova,15.524118,45.318397
+118,Italia Bari Store,6.732599,42.217842
+119,Nova Padova Tech,15.874797,43.408599
+120,Elite Milano Tech,16.570746,43.086158
+121,Italia Firenze Market,14.533506,42.478078
+122,Max Bologna Max,15.702777,38.278565
+123,Prime Cagliari Express,18.076649,37.645847
+124,Milano Milano Services,14.628167,46.656632
+125,Nova Venezia Srl,13.605174,45.304059
+126,Max Firenze Express,16.703519,42.864363
+127,Euro Torino Italia,10.666445,41.040807
+128,Roma Padova Store,14.270519,36.634113
+129,Nova Trieste Green,11.702281,40.339193
+130,Tech Messina Market,8.613644,42.030516
+131,Roma Bari Venezia,15.795697,41.427662
+132,Green Livorno Solutions,16.720558,45.305749
+133,Italia Napoli Solutions,9.426361,41.42591
+134,Green Cagliari Nova,6.8444,45.5201
+135,Elite Genova Green,10.7579,39.238536
+136,Max Bari Venezia,13.169492,41.976249
+137,Elite Bologna Store,15.140896,41.678925
+138,Italia Firenze Green,11.878095,36.682779
+139,Tech Catania Tech,14.801446,39.745784
+140,Italia Livorno Prime,13.141675,40.143828
+141,Green Reggio Calabria Elite,14.934259,39.371714
+142,Nova Bari Tech,15.155412,39.844808
+143,Elite Reggio Calabria SpA,9.096616,41.632505
+144,Milano Livorno Auto,9.895984,37.565577
+145,Elite Bologna Services,10.830573,39.704036
+146,Max Reggio Calabria Market,7.046188,37.077976
+147,Italia Catania Market,7.731052,36.630013
+148,Italia Catania Green,11.785626,38.454255
+149,Italia Roma Solutions,7.869046,37.19264
+150,Milano Parma Store,14.053348,37.068256
