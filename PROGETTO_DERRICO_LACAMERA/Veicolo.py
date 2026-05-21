@@ -6,6 +6,14 @@ class Status(Enum):
     IN_USE = "In use"
     BROKEN = "Broken"
 
+
+class VehicleType(Enum):
+    BYCICLE = "Bycicle"
+    TRUCK = "Truck"
+    ELECTRICSCOOTER = "Electric Scooter"
+    CAR = "Car"
+
+
 class DrivingLicense(Enum):
     A = "A"
     B = "B"
@@ -13,11 +21,25 @@ class DrivingLicense(Enum):
 
 
 class Vehicle:
-    def __init__(self, id, name, driving_license):
+    def __init__(self, id, name, driving_license, maximum_weight):
         self.__id = id
         self.__name = name
         self.__driving_license = driving_license
         self.__status = Status.AVAILABLE
+        self.__weight = 0
+        self.__maximum_weight = maximum_weight
+
+    @property
+    def maximum_weight(self):
+        return self.__maximum_weight
+
+    @property
+    def weight(self):
+        return self.__weight
+
+    @weight.setter
+    def _weight(self, value):
+        self.__weight = value
 
     def driving_license(self):
         return self.__driving_license
@@ -40,8 +62,39 @@ class Vehicle:
 
 class Bicycle(Vehicle):
     def __init__(self, id):
-        super().__init__(id, name="Bicycle", driving_license=None)
+        super().__init__(
+            id,
+            name=VehicleType.BYCICLE,
+            driving_license=None,
+            maximum_weight=10
+        )
+
 
 class ElectricScooter(Vehicle):
     def __init__(self, id):
-        super().__init__(id, name="ElectricScooter", driving_license=DrivingLicense.A)
+        super().__init__(
+            id,
+            name=VehicleType.ELECTRICSCOOTER,
+            driving_license=DrivingLicense.A,
+            maximum_weight=40,
+        )
+
+
+class Car(Vehicle):
+    def __init__(self, id):
+        super().__init__(
+            id,
+            name=VehicleType.CAR,
+            driving_license=DrivingLicense.B,
+            maximum_weight=150,
+        )
+
+
+class Truck(Vehicle):
+    def __init__(self, id):
+        super().__init__(
+            id,
+            name=VehicleType.TRUCK,
+            driving_license=DrivingLicense.C,
+            maximum_weight=500,
+        )

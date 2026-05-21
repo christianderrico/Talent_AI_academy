@@ -1,5 +1,8 @@
 {
-    "n_vehicles": 15,
-    "n_riders": 10,
-    "n_deliveries": 20
+    "clients": 150,
+    "vehicles": 15,
+    "riders": 40,
+    "vehicles_types": 4,
+    "deliveries": 20,
+    "broken_vehicles": 0.2
 }

@@ -3,9 +3,11 @@ from Veicolo import Vehicle
 
 
 class Rider:
-    def __init__(self, id, name):
+    #(12.35,41.65) = coordinate scelte a tavolino per la posizione iniziale del magazzino
+    def __init__(self, id, name, start_position = (12.35, 41.65)):
         self.__id = id
         self.__name = name
+        self.__position = start_position
         self.__vehicle = None
         self.__companies = []
         self.__driving_licenses = []
@@ -32,6 +34,14 @@ class Rider:
     @property
     def name(self):
         return self.__name
+
+    @property
+    def position(self):
+        return self.__position
+
+    @position.setter
+    def position(self, value):
+        self.__position = value
 
     def add_vehicle(self, vehicle):
         self.__vehicle = vehicle
